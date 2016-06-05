@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topshelf.Elmah", "Topshelf.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topshelf.Serilog", "Topshelf.Serilog\Topshelf.Serilog.csproj", "{20F2B28C-3AD6-4B1D-9371-15DF77443DA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topshelf.WinForms", "Topshelf.WinForms\Topshelf.WinForms.csproj", "{9ECAD422-E69E-4279-ADEB-39AA86409B06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +129,24 @@ Global
 		{20F2B28C-3AD6-4B1D-9371-15DF77443DA8}.ReleaseUnsigned|Any CPU.ActiveCfg = Release|Any CPU
 		{20F2B28C-3AD6-4B1D-9371-15DF77443DA8}.ReleaseUnsigned|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{20F2B28C-3AD6-4B1D-9371-15DF77443DA8}.ReleaseUnsigned|x86.ActiveCfg = Release|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.Debug|x86.Build.0 = Debug|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.Release|x86.ActiveCfg = Release|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.Release|x86.Build.0 = Release|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.ReleaseUnsigned|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.ReleaseUnsigned|Any CPU.Build.0 = Release|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.ReleaseUnsigned|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.ReleaseUnsigned|Mixed Platforms.Build.0 = Release|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.ReleaseUnsigned|x86.ActiveCfg = Release|Any CPU
+		{9ECAD422-E69E-4279-ADEB-39AA86409B06}.ReleaseUnsigned|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
